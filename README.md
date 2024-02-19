@@ -11,7 +11,7 @@ Built a NLP website having text and string related AI solutions including Sentim
 Clone the repository
 
 ```bash
-git clone https://github.com/Hirak010/Bitcoin-Price-Prediction.git
+git clone https://github.com/Hirak010/NLP_WEB_APP
 ```
 
 ## STEP 02: 
@@ -29,6 +29,8 @@ Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
+## STEP 04: 
+Run the app.
 
 ```bash
 python app.py
